@@ -58,8 +58,8 @@
      - 有一个不是必要的但至关重要的是**算法**和**数据结构**，这个基础牢固干啥都不虚
   8. 嵌入式开发干货教程，网络资源
      - https://www.crifan.com/files/doc/docbook/embedded_soft_dev/release/html/embedded_soft_dev.html#emb_industry_2014_education_background
-  9. 嵌入式精品学习资源，网络资源
-     - 
+  9. ！！！嵌入式精品学习资源，网络资源
+     - 程序羊自制网站：www.r2coding.com 系统、简洁、全面、干货！！！
 
 # 学习规划
   ## 内容规划
