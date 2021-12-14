@@ -61,7 +61,7 @@
   9. ！！！嵌入式精品学习资源，网络资源
      - 程序羊自制网站：www.r2coding.com 系统、简洁、全面、干货！！！
   10. C语言最全入门笔记
-     - C语言最全入门笔记： https://mp.weixin.qq.com/s?__biz=MzI4MTEyNDU1MA==&mid=2651208510&idx=4&sn=ad21c8f2d1df399b96cc00851b1919c6&chksm=f05c9097c72b19815e9c08a9ef918850c26693358e3fdf4238ea1dccb0de8862f99f87643ec1&scene=132#wechat_redirect
+     * https://mp.weixin.qq.com/s?__biz=MzI4MTEyNDU1MA==&mid=2651208510&idx=4&sn=ad21c8f2d1df399b96cc00851b1919c6&chksm=f05c9097c72b19815e9c08a9ef918850c26693358e3fdf4238ea1dccb0de8862f99f87643ec1&scene=132#wechat_redirect
 
 # 学习规划
   ## 内容规划
