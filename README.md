@@ -1,12 +1,34 @@
 # Arbeitsanfanger-fuer-Embedded-Entwicklung
 <嵌入式软件开发岗，必备入职前技能培训计划>
-
-# 入职前准备工作：
+---
+# 入职前准备工作： 
+  - 教材电子书链接：https://pan.baidu.com/s/1YOM_Q6Bgyj7XthUYBQnDbA 
+  - 提取码：vkkp
 ### 一. C语言
-### 二. 操作系统
-### 三. 数据结构
-### 四. 网站培训视频
-    
+  - C Primer Plus
+  - C和指针
+	
+### 二. 数据结构和算法（基础四大件1）
+  - 大话数据结构，剑指offer，刷题。
+
+### 三. 操作系统（基础四大件2）
+  - 进程和线程 并发 和锁 内存分布调度等等 （深入理解操作系统）
+### 四. 计算机网络和设计模式（基础四大件3 & 4）
+  - tcp/ip 协议栈（tcp/ip详解）
+  - 单例 工厂 代理 策略模式 模版方法（大话设计模式）
+### 五.实践
+  - Linux操作系统掌握: shell编程 脚本等等(鸟哥的Linux私房菜 或 Linux就该这么学)
+  - 文档名称：《Linux速查备忘手册》
+    - 下载链接: https://pan.baidu.com/s/1Xub98JU3rBIoYiUgn8AOgg
+    - 提取码: x6we
+  - 文档名称：《Linux命令行大全》
+  	- 下载链接: https://pan.baidu.com/s/1FeXNKFTm2sWKB-934zlgfQ
+  	- 提取码: fm5q
+  - 编译/调试工具: Linux平台上 gcc 以及makefile（跟我一起写makefile）要会写 gdb调试工具
+    - 英语好的看GNU官方关于GCC和GDB的官方文档。中文版《debugging with gdb》,跟我一起写makefile
+
+### 五. 华为培训视频
+---    
     
     
 # 必备技能大纲 -- 嵌入式软件工程师：
